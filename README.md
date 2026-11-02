@@ -4,6 +4,11 @@ An end-to-end machine learning project that classifies SMS and email messages as
 
 The project includes data cleaning, exploratory data analysis, text preprocessing, TF-IDF feature extraction, model experimentation, evaluation, and an interactive web application for message classification.
 
+## 🚀 Live Demo
+
+Try the application here:
+[SMS/Email Spam Classifier](https://sms-email-spam-classify.streamlit.app)
+
 ## Features
 
 - Classifies messages as Spam or Not Spam
