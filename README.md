@@ -162,6 +162,14 @@ streamlit run application.py
 
 The Streamlit application will open in your browser.
 
+## Application Screenshots
+
+### Spam Message Detected
+![Spam Detection](screenshots/spam-detected.png)
+
+### Legitimate Message Detected
+![Not Spam Detection](screenshots/not-spam.png)
+
 ## How to Use
 
 1. Launch the Streamlit application.
